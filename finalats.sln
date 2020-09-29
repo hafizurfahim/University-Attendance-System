@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finalats", "finalats\finalats.csproj", "{9F5BC3A5-F8CF-47C2-985C-F786BF574527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F5BC3A5-F8CF-47C2-985C-F786BF574527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5BC3A5-F8CF-47C2-985C-F786BF574527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5BC3A5-F8CF-47C2-985C-F786BF574527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5BC3A5-F8CF-47C2-985C-F786BF574527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D94E52D5-F15A-4C2F-8F31-7B8EF34910C0}
+	EndGlobalSection
+EndGlobal
